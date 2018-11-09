@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{09DF97B7-F0CD-4B1D-952C-2FB1095D4371}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="prova01_sistSoma/Program.cs">
+    <Files>
+      <File FileName="prova01_sistSoma/Program.cs" Line="14" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.prova01__sistSoma PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

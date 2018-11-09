@@ -1,0 +1,11 @@
+/Users/aluno/Projects/prova01_sistSoma/prova01_sistSoma/obj/Debug/netcoreapp2.1/prova01_sistSoma.csprojAssemblyReference.cache
+/Users/aluno/Projects/prova01_sistSoma/prova01_sistSoma/obj/Debug/netcoreapp2.1/prova01_sistSoma.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/prova01_sistSoma/prova01_sistSoma/obj/Debug/netcoreapp2.1/prova01_sistSoma.AssemblyInfoInputs.cache
+/Users/aluno/Projects/prova01_sistSoma/prova01_sistSoma/obj/Debug/netcoreapp2.1/prova01_sistSoma.AssemblyInfo.cs
+/Users/aluno/Projects/prova01_sistSoma/prova01_sistSoma/bin/Debug/netcoreapp2.1/prova01_sistSoma.deps.json
+/Users/aluno/Projects/prova01_sistSoma/prova01_sistSoma/bin/Debug/netcoreapp2.1/prova01_sistSoma.runtimeconfig.json
+/Users/aluno/Projects/prova01_sistSoma/prova01_sistSoma/bin/Debug/netcoreapp2.1/prova01_sistSoma.runtimeconfig.dev.json
+/Users/aluno/Projects/prova01_sistSoma/prova01_sistSoma/bin/Debug/netcoreapp2.1/prova01_sistSoma.dll
+/Users/aluno/Projects/prova01_sistSoma/prova01_sistSoma/bin/Debug/netcoreapp2.1/prova01_sistSoma.pdb
+/Users/aluno/Projects/prova01_sistSoma/prova01_sistSoma/obj/Debug/netcoreapp2.1/prova01_sistSoma.dll
+/Users/aluno/Projects/prova01_sistSoma/prova01_sistSoma/obj/Debug/netcoreapp2.1/prova01_sistSoma.pdb
